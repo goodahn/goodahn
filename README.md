@@ -4,9 +4,12 @@
 
 # 📚 Study
 
-### algorithm
+### [leetcode](https://leetcode.com/)
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/goodahn)](https://leetcode.com/goodahn)
+
+### [solved.ac](https://solved.ac/)
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnaldj1589)](https://solved.ac/wnaldj1589)
 
 ### materials
