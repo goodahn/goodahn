@@ -12,9 +12,9 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnaldj1589)](https://solved.ac/wnaldj1589)
 
-### materials
+### [slideshare](https://www.slideshare.net/)
 
-[![slideshare Icon](https://public.slidesharecdn.com/v2/images/slideshow/scribd_ads/slideshare_logo.svg)](https://www.slideshare.net/ssuser06c788)
+스터디 자료(https://www.slideshare.net/ssuser06c788)
 
 # 📧 Contacts
 
