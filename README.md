@@ -2,6 +2,11 @@
 
 [![goodahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodahn)](https://github.com/anuraghazra/github-readme-stats)
 
+# 🔥 Goal
+
+### leetcode Easy 알고리즘 문제 다 풀기
+- 현재 달성률! [![Easy Problem Stats](https://fchw4hjrw1.execute-api.ap-northeast-2.amazonaws.com/Prod/leetcode/simple-counting?difficulty=Easy&target-count=all&username=goodahn)](https://leetcode.com/goodahn)
+
 # 📚 Study
 
 ### [leetcode](https://leetcode.com/)
