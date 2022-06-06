@@ -5,7 +5,7 @@
 # 🔥 Goal
 
 ### leetcode Easy 알고리즘 문제 다 풀기
-- 현재 달성률:  [![Easy Problem Stats](https://fchw4hjrw1.execute-api.ap-northeast-2.amazonaws.com/Prod/leetcode/simple-counting?difficulty=Easy&target-count=all&username=goodahn)](https://leetcode.com/goodahn)
+- 현재 달성률:  [![Easy Problem Stats](http://fchw4hjrw1.execute-api.ap-northeast-2.amazonaws.com/Prod/leetcode/simple-counting?difficulty=Easy&target-count=all&username=goodahn)](https://leetcode.com/goodahn)
 
 # 📚 Study
 
