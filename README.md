@@ -5,7 +5,8 @@
 # 🔥 Goal
 
 ### leetcode Easy 알고리즘 문제 다 풀기
-- 현재 달성률:  [![Easy Problem Stats](http://fchw4hjrw1.execute-api.ap-northeast-2.amazonaws.com/Prod/leetcode/simple-counting?difficulty=Easy&target-count=all&username=goodahn)](https://leetcode.com/goodahn)
+
+- 현재 달성률: [![Easy Problem Stats](http://fchw4hjrw1.execute-api.ap-northeast-2.amazonaws.com/Prod/leetcode/simple-counting?difficulty=Easy&target-count=all&username=goodahn)](https://leetcode.com/goodahn)
 
 # 📚 Study
 
@@ -13,16 +14,26 @@
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/goodahn)](https://leetcode.com/goodahn)
 
+---
+
 ### [solved.ac](https://solved.ac/)
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/generate_badge?boj=wnaldj1589)](https://solved.ac/wnaldj1589)
 
-### [slideshare](https://www.slideshare.net/)
+---
 
-스터디 자료(https://www.slideshare.net/ssuser06c788)
+### Articles
+
+##### 도커부터 시작하는 네트워크 공부
+
+0. [네트워크 공부의 필요성](https://www.slideshare.net/ssuser06c788/0-251809362)
+1. [Docker 네트워크 (0)](https://www.slideshare.net/ssuser06c788/1-docker-network-0pptx)
+2. [Docker 네트워크 (1)](https://www.slideshare.net/ssuser06c788/1-docker-network-1)
+3. [aws 네트워크 (0)](https://www.slideshare.net/ssuser06c788/2-aws-0)
+4. [aws 네트워크 (1)](https://www.slideshare.net/ssuser06c788/2-aws-1)
+5. [aws 네트워크 (2)](https://www.slideshare.net/ssuser06c788/2-aws-2)
 
 # 🏆 Achievements
-
 
 # 📧 Contacts
 
