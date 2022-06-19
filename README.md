@@ -33,6 +33,11 @@
 4. [aws 네트워크 (1)](https://www.slideshare.net/ssuser06c788/2-aws-1)
 5. [aws 네트워크 (2)](https://www.slideshare.net/ssuser06c788/2-aws-2)
 
+##### GDG
+
+0. [자율주행로봇 서버는 어떻게 구성되어 있나 - 주니어들 개발자들의 우당탕탕 서버 개발기](https://www.slideshare.net/ssuser06c788/gdg-252015573)
+1. [Flutter에 Firebase 한스푼](https://www.slideshare.net/ssuser06c788/flutter-firebase-gdg-flutter-festival)
+
 # 🏆 Achievements
 
 # 📧 Contacts
