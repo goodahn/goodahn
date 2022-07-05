@@ -20,6 +20,10 @@
 
 ### Articles
 
+##### Event Driven Architecture(EDA)
+
+0. [EDA 맛보기](https://docs.google.com/presentation/d/1pJEFw9BvO1V9XQMB7RyYsRCJhgtam6Q4/edit?usp=sharing&ouid=110960851348915411345&rtpof=true&sd=true)
+
 ##### DevOps
 
 0. [CI/CD에 대한 오해](https://docs.google.com/presentation/d/1Dq5v0DZVTHB9KwkYOHd6vFEe6Nd3zgj0/edit?usp=sharing&ouid=110960851348915411345&rtpof=true&sd=true)
