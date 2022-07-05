@@ -4,10 +4,6 @@
 
 # 🔥 Goal
 
-### leetcode Easy 알고리즘 문제 다 풀기
-
-- 현재 달성률: [![Easy Problem Stats](http://fchw4hjrw1.execute-api.ap-northeast-2.amazonaws.com/Prod/leetcode/simple-counting?difficulty=Easy&target-count=all&username=goodahn)](https://leetcode.com/goodahn)
-
 # 📚 Study
 
 ### [leetcode](https://leetcode.com/)
@@ -23,6 +19,11 @@
 ---
 
 ### Articles
+
+##### DevOps
+
+0. [CI/CD에 대한 오해](https://docs.google.com/presentation/d/1Dq5v0DZVTHB9KwkYOHd6vFEe6Nd3zgj0/edit?usp=sharing&ouid=110960851348915411345&rtpof=true&sd=true)
+1. [github action을 활용한 CI](https://docs.google.com/presentation/d/1DyMDL4QAhp55RAR62uhlJRbigzN6MdqX/edit?usp=sharing&ouid=110960851348915411345&rtpof=true&sd=true)
 
 ##### 도커부터 시작하는 네트워크 공부
 
@@ -40,6 +41,10 @@
 2. [생산성 향상을 위한 원포인트툴: CloudCode](https://docs.google.com/presentation/d/1RNZrkrc_WC-hhmSxGdG-AGPw34vpsMg0TenHGLEr5y8/edit?usp=sharing)
 
 # 🏆 Achievements
+
+### leetcode Easy 알고리즘 문제 다 풀기
+
+- 달성률: [![Easy Problem Stats](http://fchw4hjrw1.execute-api.ap-northeast-2.amazonaws.com/Prod/leetcode/simple-counting?difficulty=Easy&target-count=all&username=goodahn)](https://leetcode.com/goodahn)
 
 # 📧 Contacts
 
