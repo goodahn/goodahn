@@ -1,7 +1,5 @@
 # goodahn 🐢 🦁 🦄
 
-[![goodahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=goodahn)](https://github.com/anuraghazra/github-readme-stats)
-
 # 🔥 Goal
 
 # 📚 Study
@@ -44,7 +42,12 @@
 1. [Flutter에 Firebase 한스푼](https://docs.google.com/presentation/d/1T8RqmUTMQQXiZGW8HMDjoJzt5UTrYntxnJ_0DaK04-M/edit?usp=sharing&resourcekey=0-1bLX0csZv2UHRoK24oEzVw)
 2. [생산성 향상을 위한 원포인트툴: CloudCode](https://docs.google.com/presentation/d/1RNZrkrc_WC-hhmSxGdG-AGPw34vpsMg0TenHGLEr5y8/edit?usp=sharing)
 
-# 🏆 Achievements
+##### Book Review
+
+0. [클린 코더 리뷰](https://goodahn.tistory.com/16)
+1. [클린 코드 리뷰](https://goodahn.tistory.com/17)
+
+# 🏆 2022 Achievements
 
 ### leetcode Easy 알고리즘 문제 다 풀기
 
@@ -53,3 +56,5 @@
 # 📧 Contacts
 
 [![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wnaldj1589@gmail.com)](mailto:wnaldj1589@gmail.com)
+
+[![Tistory Icon](https://img.shields.io/badge/Tistory-000000?&style=for-the-badge&logo=tistory&logoColor=black)](https://goodahn.tistory.com/)
