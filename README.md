@@ -32,6 +32,6 @@
 
 # 📧 Contacts
 
-[![Gmail Icon](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:wnaldj1589@gmail.com)](mailto:wnaldj1589@gmail.com)
+- email: wnaldj1589@gmail.com
 
-[![Tistory Icon](https://img.shields.io/badge/Tistory-000000?&style=for-the-badge&logo=tistory&logoColor=black)](https://goodahn.tistory.com/)
+- blog: https://goodahn.tistory.com/
